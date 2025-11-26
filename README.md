@@ -1,6 +1,6 @@
 # Hi, I'm Damien
 
-## Data Analyst & Data Enginner| PhD in Physics | Ex-CEA Research Lead | Entrepreneur
+## Data Analyst & Data Enginner| PhD | Applied Scientist | Entrepreneur
 
 Data consultant helping French SMEs leverage their data potential. Currently transitioning from 12 years in R&D leadership to data science & analytics roles.
 
