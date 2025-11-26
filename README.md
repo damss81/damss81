@@ -10,10 +10,11 @@ Data consultant helping French SMEs leverage their data potential. Currently tra
 -  **Research Background**: 12 years at CEA Saclay, from post-doc to team leader
 
 ### Tech Stack
-- **Languages**: Python, SQL, R, MATLAB, C++
+- **Languages**: Python, SQL, MATLAB, C++
 - **Data/ML**: Pandas, Scikit-learn, TensorFlow, Streamlit
 - **Cloud/BI**: AWS (learning), PostgreSQL, Power BI
-- **Specialties**: Numerical modeling, Time series analysis, ETL pipelines
+- ** Statistics** : Statsmodel, PyMC 
+- **Specialties**: Insights analysis, Time series analysis, ETL pipelines
 
 ### Current Focus
 -  Completing Data Scientist certification - Mines Paris/DataScientest (2025)
@@ -21,7 +22,7 @@ Data consultant helping French SMEs leverage their data potential. Currently tra
 -  Building end-to-end ML solutions for real business problems
 
 ### Featured Projects
-- ** Hotel Cancellation Predictor** - ML solution for Eaxess reducing booking cancellations
+- ** Hotel Cancellation Predictor** - ML solution for Revenue Pilot SaaS reducing booking cancellations
 - ** Farm Management System** - Full-stack app with Python/PostgreSQL for business optimization
 
 ### 📫 Let's Connect
