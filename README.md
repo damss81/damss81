@@ -22,7 +22,7 @@ Data consultant helping French SMEs leverage their data potential. Currently tra
 -  Building end-to-end ML solutions for real business problems
 
 ### Featured Projects
-- ** Hotel Cancellation Predictor** (damss81/hotel_cancellation_predictor) - ML solution for Revenue Pilot SaaS reducing booking cancellations
+- ** Hotel Cancellation Predictor** (https://github.com/damss81/hotel_cancellation_predictor) - ML solution for Revenue Pilot SaaS reducing booking cancellations
 - ** Farm Management System** - Full-stack app with Python/PostgreSQL for business optimization
 
 ### 📫 Let's Connect
